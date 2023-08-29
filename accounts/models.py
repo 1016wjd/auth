@@ -4,3 +4,7 @@ from django.contrib.auth.models import AbstractUser
 
 class User(AbstractUser):
     pass 
+
+    # 자동생성
+    # article_set = 
+    # comment_set = 
